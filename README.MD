@@ -5,9 +5,9 @@
 A Alura Start faz parte do ecossistema Alura e é voltada para introduzir crianças e adolescentes ao mundo da tecnologia e programação de forma divertida e educativa. Através de projetos práticos, a plataforma ensina lógica de programação, pensamento computacional e habilidades digitais.
 
 <p align="center">
-  <img src="./desktop.png" alt="Tela desktop" width="30%" style="vertical-align: top; margin-right: 20px;" />
-  <img src="./tablet.png" alt="Tela tablet" width="20%" style="vertical-align: top; margin-right: 20px;"/>
-  <img src="./mobile.png" alt="Tela mobile" width="10%" style="vertical-align: top;"/>
+  <img src="./assets/imagens/desktop.png" alt="Tela desktop" width="30%" style="vertical-align: top; margin-right: 20px;" />
+  <img src="./assets/imagens/tablet.png" alt="Tela tablet" width="20%" style="vertical-align: top; margin-right: 20px;"/>
+  <img src="./assets/imagens/mobile.png" alt="Tela mobile" width="10%" style="vertical-align: top;"/>
 </p>
 
 ## 🔨 Funcionalidades do projeto
