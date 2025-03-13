@@ -282,6 +282,11 @@ body {
   align-items: center;
   justify-content: space-between;
   gap: var(--gap-2xl);
+
+  @media (max-width: 768px) {
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
 }
 
 .sobre-nos__beneficios--card {
