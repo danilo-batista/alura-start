@@ -813,12 +813,17 @@ body {
   }
 }
 
-/* Footer Styles */
+/* Brand Footer */
 .dnlb__footer {
+  font-family: Arial, Helvetica, sans-serif;
+  z-index: 1;
   padding: 1rem;
 
-  background-color: var(--cor-texto);
-  color: var(--cor-container-impacto);
+  background-color: #167bf7;
+  color: white;
+
+  position: sticky;
+  bottom: 0;
 }
 
 .dnlb__footer--copyright {
@@ -832,5 +837,5 @@ body {
 .dnlb__footer--copyright a {
   text-decoration: none;
   font-weight: 700;
-  color: var(--cor-container-impacto);
+  color: white;
 }
