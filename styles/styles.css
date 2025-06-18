@@ -812,3 +812,25 @@ body {
     color: var(--cor-texto);
   }
 }
+
+/* Footer Styles */
+.dnlb__footer {
+  padding: 1rem;
+
+  background-color: var(--cor-texto);
+  color: var(--cor-container-impacto);
+}
+
+.dnlb__footer--copyright {
+  text-align: center;
+}
+
+.dnlb__footer--copyright span {
+  font-weight: 600;
+}
+
+.dnlb__footer--copyright a {
+  text-decoration: none;
+  font-weight: 700;
+  color: var(--cor-container-impacto);
+}
